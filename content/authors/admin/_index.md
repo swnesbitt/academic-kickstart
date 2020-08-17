@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Steve Nesbitt
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Atmospheric Sciences
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Illinois at Urbana-Champaign
+  url: "illinois.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include cloud and precipitation processes and their connections to weather and climate around the globe.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Mesoscale Meteorology and High-Impact Weather
+- Radar and Satellite Remote Sensing
+- Cloud Physics and Dynamics
+- Clouds, Precipitation, and Climate
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Meteorology
+    institution: University of Utah
+    year: 2003
+  - course: MS in Meteorology
+    institution: Texas A&M University
+    year: 1999
+  - course: BS in Meteorology with Honors
+    institution: State University of New York College at Oswego
+    year: 1997
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +48,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/70_dbz
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=7iqutUMAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/swnesbitt
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,15 +62,13 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "snesbitt@illinois.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Prof. Nesbitt leads a research group comprised of research staff, graduate students and undergraduate researchers in the Department of Atmospheric Sciences, where his research and teaching interests reside in atmospheric observations including the remote sensing of precipitation using radar and passive microwave sensors, observations and modeling of mesoscale and cloud dynamics and microphysics, land-atmosphere interaction, as well as data science and high-performance computation. He has participated in and led numerous field campaigns spanning four continents using radar, aircraft, and in situ instrumentation. He has taught courses in synoptic and mesoscale meteorology and weather forecasting, remote sensing, radar meteorology, tropical meteorology, mesoscale modeling, and geophysical data analysis and python programming.
